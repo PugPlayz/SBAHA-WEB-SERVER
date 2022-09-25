@@ -1,0 +1,940 @@
+{
+    "auction": [
+        {
+            "name": "Armadillo",
+            "tier": "EPIC",
+            "lvl": 1,
+            "price": 100000,
+            "user": "3d663a190464459295fc2a3314fb23c1",
+            "estSP": 198000,
+            "profit": 98000
+        },
+        {
+            "name": "Rabbit",
+            "tier": "EPIC",
+            "lvl": 27,
+            "price": 200000,
+            "user": "765f79489e2748b8977730b7ee8b6983",
+            "estSP": 304500,
+            "profit": 104500
+        },
+        {
+            "name": "Spider",
+            "tier": "EPIC",
+            "lvl": 63,
+            "price": 220000,
+            "user": "1d043c7b4c15481d88c94db9a21710c4",
+            "estSP": 600000,
+            "profit": 380000
+        },
+        {
+            "name": "Bat",
+            "tier": "EPIC",
+            "lvl": 33,
+            "price": 300000,
+            "user": "6d99a57b4a29402ab3df7501c5f94495",
+            "estSP": 1450000,
+            "profit": 1150000
+        },
+        {
+            "name": "Enderman",
+            "tier": "EPIC",
+            "lvl": 43,
+            "price": 389999,
+            "user": "d53cb80921d340d2ab99df7f8c8a50c6",
+            "estSP": 500000,
+            "profit": 110001
+        },
+        {
+            "name": "Skeleton Horse",
+            "tier": "LEGENDARY",
+            "lvl": 33,
+            "price": 500000,
+            "user": "db42de322bd247d18b30b3df947ed239",
+            "estSP": 950000,
+            "profit": 450000
+        },
+        {
+            "name": "Golem",
+            "tier": "EPIC",
+            "lvl": 44,
+            "price": 500000,
+            "user": "ead9d8796b5540f1b4e977effc17ac6a",
+            "estSP": 722500,
+            "profit": 222500
+        },
+        {
+            "name": "Mithril Golem",
+            "tier": "EPIC",
+            "lvl": 47,
+            "price": 549000,
+            "user": "f0ee821320c04fef8c431a68f16da875",
+            "estSP": 764360,
+            "profit": 215360
+        },
+        {
+            "name": "Pigman",
+            "tier": "EPIC",
+            "lvl": 35,
+            "price": 599000,
+            "user": "bce510fd37aa431197acdf30d2c912af",
+            "estSP": 739260,
+            "profit": 140260
+        },
+        {
+            "name": "Horse",
+            "tier": "LEGENDARY",
+            "lvl": 1,
+            "price": 700000,
+            "user": "12d21bb9ee944fd588872918b18adcaa",
+            "estSP": 850000,
+            "profit": 150000
+        },
+        {
+            "name": "Silverfish",
+            "tier": "LEGENDARY",
+            "lvl": 48,
+            "price": 850000,
+            "user": "a9c159095b86458f869d1807a4d0df2b",
+            "estSP": 1000000,
+            "profit": 150000
+        },
+        {
+            "name": "Rabbit",
+            "tier": "LEGENDARY",
+            "lvl": 53,
+            "price": 900000,
+            "user": "d476d94cf6134dff9bda0cf8db36c873",
+            "estSP": 1200000,
+            "profit": 300000
+        },
+        {
+            "name": "Pig",
+            "tier": "LEGENDARY",
+            "lvl": 1,
+            "price": 960000,
+            "user": "2337d5a4756346dba82cd5a3e4b03c9b",
+            "estSP": 1090000,
+            "profit": 130000
+        },
+        {
+            "name": "Pigman",
+            "tier": "EPIC",
+            "lvl": 61,
+            "price": 999000,
+            "user": "a8356ff44c9e472e858b9b64688e39f7",
+            "estSP": 1600000,
+            "profit": 601000
+        },
+        {
+            "name": "Monkey",
+            "tier": "EPIC",
+            "lvl": 50,
+            "price": 1000000,
+            "user": "43a9483fe23248ee8fe248f3a803d5ad",
+            "estSP": 2000000,
+            "profit": 1000000
+        },
+        {
+            "name": "Skeleton Horse",
+            "tier": "LEGENDARY",
+            "lvl": 50,
+            "price": 1000000,
+            "user": "a8cb7a652dce477d9fe32ce636abb74f",
+            "estSP": 1700000,
+            "profit": 700000
+        },
+        {
+            "name": "Enderman",
+            "tier": "EPIC",
+            "lvl": 66,
+            "price": 1000000,
+            "user": "f4efc2be4c454a2e88f29e8c21d2b260",
+            "estSP": 1430000,
+            "profit": 430000
+        },
+        {
+            "name": "Giraffe",
+            "tier": "EPIC",
+            "lvl": 38,
+            "price": 1000000,
+            "user": "8d70c0be807546f08a985be3c9d1b869",
+            "estSP": 1099999,
+            "profit": 99999
+        },
+        {
+            "name": "Megalodon",
+            "tier": "EPIC",
+            "lvl": 51,
+            "price": 1100000,
+            "user": "1a0a11b7a3344cdbb5ae34443d8c9309",
+            "estSP": 3000000,
+            "profit": 1900000
+        },
+        {
+            "name": "Chicken",
+            "tier": "LEGENDARY",
+            "lvl": 56,
+            "price": 1100000,
+            "user": "9962a28116ef43b8bfd4042923f194c1",
+            "estSP": 1900000,
+            "profit": 800000
+        },
+        {
+            "name": "Elephant",
+            "tier": "EPIC",
+            "lvl": 36,
+            "price": 1100000,
+            "user": "c0392a811e5041868707ddd7c475d0f6",
+            "estSP": 1485000,
+            "profit": 385000
+        },
+        {
+            "name": "Rat",
+            "tier": "LEGENDARY",
+            "lvl": 35,
+            "price": 1200000,
+            "user": "5b330e7438894c09ae62d379e4cad3ff",
+            "estSP": 1552000,
+            "profit": 352000
+        },
+        {
+            "name": "Guardian",
+            "tier": "EPIC",
+            "lvl": 1,
+            "price": 1250000,
+            "user": "886aed34cb23458b92f650584456e9fd",
+            "estSP": 1400000,
+            "profit": 150000
+        },
+        {
+            "name": "Mithril Golem",
+            "tier": "LEGENDARY",
+            "lvl": 55,
+            "price": 1300000,
+            "user": "593656328d4a4b64bbd7408b26db68e8",
+            "estSP": 1500000,
+            "profit": 200000
+        },
+        {
+            "name": "Silverfish",
+            "tier": "LEGENDARY",
+            "lvl": 90,
+            "price": 1490000,
+            "user": "3fcece634d03465ea8cbf2755d36bf76",
+            "estSP": 1850000,
+            "profit": 360000
+        },
+        {
+            "name": "Pig",
+            "tier": "LEGENDARY",
+            "lvl": 38,
+            "price": 1500000,
+            "user": "301fe5f90fb6451a9b59bfe6eed7c95e",
+            "estSP": 11760000,
+            "profit": 10260000
+        },
+        {
+            "name": "Blue Whale",
+            "tier": "EPIC",
+            "lvl": 38,
+            "price": 1500000,
+            "user": "74cc4b9d62cb4f46b6be7068e51d53de",
+            "estSP": 1600000,
+            "profit": 100000
+        },
+        {
+            "name": "Sheep",
+            "tier": "EPIC",
+            "lvl": 79,
+            "price": 1550000,
+            "user": "967c1e971875444d951a5696716d91d4",
+            "estSP": 1700000,
+            "profit": 150000
+        },
+        {
+            "name": "Magma Cube",
+            "tier": "LEGENDARY",
+            "lvl": 48,
+            "price": 1690000,
+            "user": "16b5cb03a4c643ef896f405bf859423a",
+            "estSP": 2000000,
+            "profit": 310000
+        },
+        {
+            "name": "Bat",
+            "tier": "LEGENDARY",
+            "lvl": 54,
+            "price": 1700000,
+            "user": "084e3d150153447cbf7649421c69404c",
+            "estSP": 1860000,
+            "profit": 160000
+        },
+        {
+            "name": "Guardian",
+            "tier": "EPIC",
+            "lvl": 100,
+            "price": 1749000,
+            "user": "41c2134bffdf4a749af3de98621dfff3",
+            "estSP": 1900000,
+            "profit": 151000
+        },
+        {
+            "name": "Squid",
+            "tier": "EPIC",
+            "lvl": 34,
+            "price": 1800000,
+            "user": "a35e245557dd4e5685326fb62b8d2a91",
+            "estSP": 4071000,
+            "profit": 2271000
+        },
+        {
+            "name": "Ocelot",
+            "tier": "LEGENDARY",
+            "lvl": 35,
+            "price": 1800000,
+            "user": "f43dc51fbe524d0b9aa812122c4f7fe2",
+            "estSP": 1960000,
+            "profit": 160000
+        },
+        {
+            "name": "Lion",
+            "tier": "EPIC",
+            "lvl": 65,
+            "price": 2200000,
+            "user": "68077ddeb16248bf9afbd5ced5e634f1",
+            "estSP": 2871000,
+            "profit": 671000
+        },
+        {
+            "name": "Turtle",
+            "tier": "EPIC",
+            "lvl": 49,
+            "price": 2200000,
+            "user": "0be85fc05b064eb99abe128f6577afd1",
+            "estSP": 2760000,
+            "profit": 560000
+        },
+        {
+            "name": "Tiger",
+            "tier": "EPIC",
+            "lvl": 58,
+            "price": 2600000,
+            "user": "fe5f0e643db34c659daae4bff1483c62",
+            "estSP": 2999999,
+            "profit": 399999
+        },
+        {
+            "name": "Golem",
+            "tier": "LEGENDARY",
+            "lvl": 44,
+            "price": 2600000,
+            "user": "cb42da5285b3478ba72d2c25f57ce8d9",
+            "estSP": 2730000,
+            "profit": 130000
+        },
+        {
+            "name": "Dolphin",
+            "tier": "EPIC",
+            "lvl": 1,
+            "price": 2600000,
+            "user": "7ea79c813c15458f91f82b540ec2790d",
+            "estSP": 2690000,
+            "profit": 90000
+        },
+        {
+            "name": "Pigman",
+            "tier": "LEGENDARY",
+            "lvl": 48,
+            "price": 2800000,
+            "user": "f618913bef1e4a1b8e72ad1e1eafde85",
+            "estSP": 2900000,
+            "profit": 100000
+        },
+        {
+            "name": "Bat",
+            "tier": "MYTHIC",
+            "lvl": 56,
+            "price": 3000000,
+            "user": "cbd11a28223c48748a11a09e4da91e2b",
+            "estSP": 4200000,
+            "profit": 1200000
+        },
+        {
+            "name": "Horse",
+            "tier": "LEGENDARY",
+            "lvl": 58,
+            "price": 3000000,
+            "user": "0289f5288a1d41f18d1ab5b1626910ee",
+            "estSP": 3899000,
+            "profit": 899000
+        },
+        {
+            "name": "Ocelot",
+            "tier": "LEGENDARY",
+            "lvl": 78,
+            "price": 3000000,
+            "user": "4060a9d7b59a442f8db75d813cfadb41",
+            "estSP": 3500000,
+            "profit": 500000
+        },
+        {
+            "name": "Rat",
+            "tier": "LEGENDARY",
+            "lvl": 55,
+            "price": 3000000,
+            "user": "1c463f7476d44ac1bc7c6c5656a817d0",
+            "estSP": 3325000,
+            "profit": 325000
+        },
+        {
+            "name": "Parrot",
+            "tier": "EPIC",
+            "lvl": 67,
+            "price": 3000000,
+            "user": "91e5672375574f4a862a941b7833b460",
+            "estSP": 3200000,
+            "profit": 200000
+        },
+        {
+            "name": "Megalodon",
+            "tier": "LEGENDARY",
+            "lvl": 1,
+            "price": 3000000,
+            "user": "60ec695416564b00a60e1504c6763331",
+            "estSP": 3199000,
+            "profit": 199000
+        },
+        {
+            "name": "Elephant",
+            "tier": "EPIC",
+            "lvl": 86,
+            "price": 3200000,
+            "user": "fe297373ebf04aeab794c8a52e64f25a",
+            "estSP": 3899999,
+            "profit": 699999
+        },
+        {
+            "name": "Parrot",
+            "tier": "EPIC",
+            "lvl": 85,
+            "price": 3300000,
+            "user": "560a8b4d8ec946838456392c823f209d",
+            "estSP": 3783000,
+            "profit": 483000
+        },
+        {
+            "name": "Phoenix",
+            "tier": "EPIC",
+            "lvl": 67,
+            "price": 3499999,
+            "user": "ec494aa73e904e9d82bfa8ff449e444c",
+            "estSP": 4800000,
+            "profit": 1300001
+        },
+        {
+            "name": "Bat",
+            "tier": "LEGENDARY",
+            "lvl": 72,
+            "price": 3500000,
+            "user": "545ca1fee55e4a90bcc7ebabe98d437a",
+            "estSP": 3759999,
+            "profit": 259999
+        },
+        {
+            "name": "Pigman",
+            "tier": "LEGENDARY",
+            "lvl": 88,
+            "price": 4000000,
+            "user": "0ce5440615e74336ad9e2b43702bab1d",
+            "estSP": 5000000,
+            "profit": 1000000
+        },
+        {
+            "name": "Rabbit",
+            "tier": "LEGENDARY",
+            "lvl": 84,
+            "price": 4000000,
+            "user": "50ae6f6e82d541208cc71b7b9618790e",
+            "estSP": 4999999,
+            "profit": 999999
+        },
+        {
+            "name": "Flying Fish",
+            "tier": "EPIC",
+            "lvl": 54,
+            "price": 4000000,
+            "user": "8351149079e34de08dc060c2f07188f5",
+            "estSP": 4500000,
+            "profit": 500000
+        },
+        {
+            "name": "Mooshroom Cow",
+            "tier": "EPIC",
+            "lvl": 68,
+            "price": 4000000,
+            "user": "15cbd92e1e3948dc86a93b7b51f007ba",
+            "estSP": 4500000,
+            "profit": 500000
+        },
+        {
+            "name": "Megalodon",
+            "tier": "LEGENDARY",
+            "lvl": 56,
+            "price": 4000000,
+            "user": "da804f7c90dc4481bb51f858962a35a6",
+            "estSP": 4399999,
+            "profit": 399999
+        },
+        {
+            "name": "Sheep",
+            "tier": "LEGENDARY",
+            "lvl": 47,
+            "price": 4500000,
+            "user": "7ac931af5cd04cc28d1dd3d9ddc552ac",
+            "estSP": 4800000,
+            "profit": 300000
+        },
+        {
+            "name": "Wither Skeleton",
+            "tier": "EPIC",
+            "lvl": 100,
+            "price": 5500000,
+            "user": "f41b7810223f42858f5d091048bb150c",
+            "estSP": 5999999,
+            "profit": 499999
+        },
+        {
+            "name": "Ocelot",
+            "tier": "EPIC",
+            "lvl": 83,
+            "price": 6000000,
+            "user": "7b7d2771d9d94d45b8bab410b60da84b",
+            "estSP": 8190000,
+            "profit": 2190000
+        },
+        {
+            "name": "Bat",
+            "tier": "MYTHIC",
+            "lvl": 86,
+            "price": 6000000,
+            "user": "c9a9d4eefe40419dbc29fff7e7df9c65",
+            "estSP": 8170000,
+            "profit": 2170000
+        },
+        {
+            "name": "Monkey",
+            "tier": "EPIC",
+            "lvl": 79,
+            "price": 6500000,
+            "user": "ebe1ee5483c24eb5a31334f551c62a85",
+            "estSP": 6999999,
+            "profit": 499999
+        },
+        {
+            "name": "Dolphin",
+            "tier": "EPIC",
+            "lvl": 87,
+            "price": 6500000,
+            "user": "b52d35a903024aa2a687590d67e1c7dd",
+            "estSP": 6800000,
+            "profit": 300000
+        },
+        {
+            "name": "Bal",
+            "tier": "EPIC",
+            "lvl": 1,
+            "price": 6500000,
+            "user": "de004224c76c4156a83f05273525f093",
+            "estSP": 6600000,
+            "profit": 100000
+        },
+        {
+            "name": "Bal",
+            "tier": "EPIC",
+            "lvl": 63,
+            "price": 6800000,
+            "user": "8afa0c7f8bc04bf2ae9b5a07ab688b10",
+            "estSP": 7000000,
+            "profit": 200000
+        },
+        {
+            "name": "Squid",
+            "tier": "EPIC",
+            "lvl": 75,
+            "price": 6900000,
+            "user": "358deebb8e524978972f3f0ff1c0072a",
+            "estSP": 7820000,
+            "profit": 920000
+        },
+        {
+            "name": "Magma Cube",
+            "tier": "LEGENDARY",
+            "lvl": 73,
+            "price": 6900000,
+            "user": "b09fd590af2d460dbb5f84fad756a7c3",
+            "estSP": 7280000,
+            "profit": 380000
+        },
+        {
+            "name": "Blaze",
+            "tier": "EPIC",
+            "lvl": 53,
+            "price": 7200000,
+            "user": "e3ba8f0410c94c2c9ef4bea5209e5b2b",
+            "estSP": 7490000,
+            "profit": 290000
+        },
+        {
+            "name": "Rock",
+            "tier": "EPIC",
+            "lvl": 100,
+            "price": 8199999,
+            "user": "f6beeedb84a445209d2e86810efecb53",
+            "estSP": 8500000,
+            "profit": 300001
+        },
+        {
+            "name": "Tarantula",
+            "tier": "LEGENDARY",
+            "lvl": 1,
+            "price": 9900000,
+            "user": "d6a4c48f9d7c40be9ceeb2276dc7ce1b",
+            "estSP": 10000000,
+            "profit": 100000
+        },
+        {
+            "name": "Griffin",
+            "tier": "EPIC",
+            "lvl": 66,
+            "price": 9900000,
+            "user": "d476d94cf6134dff9bda0cf8db36c873",
+            "estSP": 9999999,
+            "profit": 99999
+        },
+        {
+            "name": "Giraffe",
+            "tier": "LEGENDARY",
+            "lvl": 31,
+            "price": 10000000,
+            "user": "2891a202aeb94f48b0aad21da720dae7",
+            "estSP": 11000000,
+            "profit": 1000000
+        },
+        {
+            "name": "Dolphin",
+            "tier": "LEGENDARY",
+            "lvl": 3,
+            "price": 10800000,
+            "user": "904eabd6b5ba45288248edad00187649",
+            "estSP": 10900000,
+            "profit": 100000
+        },
+        {
+            "name": "Snowman",
+            "tier": "LEGENDARY",
+            "lvl": 66,
+            "price": 10850000,
+            "user": "e06e55cb9cb94b19aaaa13e320339b0e",
+            "estSP": 12980000,
+            "profit": 2130000
+        },
+        {
+            "name": "Jellyfish",
+            "tier": "LEGENDARY",
+            "lvl": 45,
+            "price": 11000000,
+            "user": "57d8b220a1264861a3d2210385ef7a63",
+            "estSP": 12740000,
+            "profit": 1740000
+        },
+        {
+            "name": "Tarantula",
+            "tier": "LEGENDARY",
+            "lvl": 72,
+            "price": 12000000,
+            "user": "a0381f90a6484990983f54c58df05e86",
+            "estSP": 12870000,
+            "profit": 870000
+        },
+        {
+            "name": "Blue Whale",
+            "tier": "LEGENDARY",
+            "lvl": 1,
+            "price": 12900000,
+            "user": "b004b1e6ae2e4e7aaa72e2d21b563601",
+            "estSP": 13295000,
+            "profit": 395000
+        },
+        {
+            "name": "Snail",
+            "tier": "EPIC",
+            "lvl": 86,
+            "price": 13000000,
+            "user": "4dd739056eff488e99dc354442f93600",
+            "estSP": 14000000,
+            "profit": 1000000
+        },
+        {
+            "name": "Rock",
+            "tier": "LEGENDARY",
+            "lvl": 96,
+            "price": 13400000,
+            "user": "1f3add5414e04cdbbc4a14082755aece",
+            "estSP": 14500000,
+            "profit": 1100000
+        },
+        {
+            "name": "Turtle",
+            "tier": "LEGENDARY",
+            "lvl": 1,
+            "price": 14000000,
+            "user": "d87c09a5bffd43caa0845ce5d6fa97b2",
+            "estSP": 14700000,
+            "profit": 700000
+        },
+        {
+            "name": "Pig",
+            "tier": "LEGENDARY",
+            "lvl": 88,
+            "price": 14500000,
+            "user": "f31c0a14dbf743d3bddacd2ed1be30af",
+            "estSP": 15840000,
+            "profit": 1340000
+        },
+        {
+            "name": "Squid",
+            "tier": "LEGENDARY",
+            "lvl": 58,
+            "price": 14500000,
+            "user": "8404a14b7a5641028c0c3a2459890208",
+            "estSP": 15500000,
+            "profit": 1000000
+        },
+        {
+            "name": "Blue Whale",
+            "tier": "LEGENDARY",
+            "lvl": 58,
+            "price": 14599999,
+            "user": "269acd02fb534f7fa9b3aa0fc02dab22",
+            "estSP": 14799999,
+            "profit": 200000
+        },
+        {
+            "name": "Jellyfish",
+            "tier": "LEGENDARY",
+            "lvl": 84,
+            "price": 14900000,
+            "user": "bfefec73140249bf8cc4ca5f5e8e7010",
+            "estSP": 16000000,
+            "profit": 1100000
+        },
+        {
+            "name": "Snowman",
+            "tier": "LEGENDARY",
+            "lvl": 83,
+            "price": 15000000,
+            "user": "a96e4d369a2d40d6a3daf9b8c0f6bca4",
+            "estSP": 17000000,
+            "profit": 2000000
+        },
+        {
+            "name": "Jellyfish",
+            "tier": "LEGENDARY",
+            "lvl": 100,
+            "price": 16900000,
+            "user": "1f3f96308ecb4383a137c7384f093a3f",
+            "estSP": 16999999,
+            "profit": 99999
+        },
+        {
+            "name": "Giraffe",
+            "tier": "LEGENDARY",
+            "lvl": 77,
+            "price": 17000000,
+            "user": "4b8e9c07177449009af1dd48a2eb0d57",
+            "estSP": 29953000,
+            "profit": 12953000
+        },
+        {
+            "name": "Turtle",
+            "tier": "LEGENDARY",
+            "lvl": 81,
+            "price": 17890000,
+            "user": "c75fb086ddae43ad84ae67c5fb2da977",
+            "estSP": 18700000,
+            "profit": 810000
+        },
+        {
+            "name": "Spider",
+            "tier": "LEGENDARY",
+            "lvl": 86,
+            "price": 18500000,
+            "user": "951a22f7ce5b46fab482c396a74a475c",
+            "estSP": 19000000,
+            "profit": 500000
+        },
+        {
+            "name": "Black Cat",
+            "tier": "LEGENDARY",
+            "lvl": 39,
+            "price": 18990000,
+            "user": "b7265442daf4487f89effd45166c5069",
+            "estSP": 19800000,
+            "profit": 810000
+        },
+        {
+            "name": "Monkey",
+            "tier": "LEGENDARY",
+            "lvl": 67,
+            "price": 19500000,
+            "user": "df414f83e4a14330a7c92233b9705503",
+            "estSP": 19788000,
+            "profit": 288000
+        },
+        {
+            "name": "Skeleton Horse",
+            "tier": "LEGENDARY",
+            "lvl": 100,
+            "price": 22000000,
+            "user": "4f596013d70949329b12ef7365002453",
+            "estSP": 23500000,
+            "profit": 1500000
+        },
+        {
+            "name": "Monkey",
+            "tier": "LEGENDARY",
+            "lvl": 85,
+            "price": 23999999,
+            "user": "de4bcb96e3424204ac6f2525e3580235",
+            "estSP": 25000000,
+            "profit": 1000001
+        },
+        {
+            "name": "Baby Yeti",
+            "tier": "LEGENDARY",
+            "lvl": 50,
+            "price": 24000000,
+            "user": "c290e8c1a4dc4d67bf2f2457746baacf",
+            "estSP": 26000000,
+            "profit": 2000000
+        },
+        {
+            "name": "Enderman",
+            "tier": "LEGENDARY",
+            "lvl": 65,
+            "price": 37000000,
+            "user": "90acdcc697884b008a2af54f6f3c6840",
+            "estSP": 40000000,
+            "profit": 3000000
+        },
+        {
+            "name": "Griffin",
+            "tier": "LEGENDARY",
+            "lvl": 93,
+            "price": 37000000,
+            "user": "23e72d17b2f8463c9138a2255cb840cc",
+            "estSP": 37500000,
+            "profit": 500000
+        },
+        {
+            "name": "Enderman",
+            "tier": "MYTHIC",
+            "lvl": 60,
+            "price": 38000000,
+            "user": "2af3b911e1274bd89815f297508e85c2",
+            "estSP": 39333333,
+            "profit": 1333333
+        },
+        {
+            "name": "Giraffe",
+            "tier": "LEGENDARY",
+            "lvl": 100,
+            "price": 38900000,
+            "user": "1df20e8e56d440e0adb735e2dde5ce39",
+            "estSP": 38990000,
+            "profit": 90000
+        },
+        {
+            "name": "Magma Cube",
+            "tier": "LEGENDARY",
+            "lvl": 100,
+            "price": 43000000,
+            "user": "a189dc572f4749bb80873a98c04ccd07",
+            "estSP": 45000000,
+            "profit": 2000000
+        },
+        {
+            "name": "Phoenix",
+            "tier": "LEGENDARY",
+            "lvl": 51,
+            "price": 51000000,
+            "user": "22572e21c28d456898ea745fd913cc6e",
+            "estSP": 59000000,
+            "profit": 8000000
+        },
+        {
+            "name": "Phoenix",
+            "tier": "LEGENDARY",
+            "lvl": 79,
+            "price": 59900000,
+            "user": "9070311946f9404c9c5c4b727cc63615",
+            "estSP": 60000000,
+            "profit": 100000
+        },
+        {
+            "name": "Scatha",
+            "tier": "EPIC",
+            "lvl": 100,
+            "price": 169000000,
+            "user": "cef50135356d4703a872f2818ab04f7a",
+            "estSP": 170000000,
+            "profit": 1000000
+        },
+        {
+            "name": "Scatha",
+            "tier": "LEGENDARY",
+            "lvl": 100,
+            "price": 222222222,
+            "user": "53fda9df878a4e85878c2f73ba8af7c3",
+            "estSP": 223000000,
+            "profit": 777778
+        },
+        {
+            "name": "Ender Dragon",
+            "tier": "EPIC",
+            "lvl": 62,
+            "price": 309999999,
+            "user": "9d4ab2805c1741588d3414578d45fa63",
+            "estSP": 333000000,
+            "profit": 23000001
+        },
+        {
+            "name": "Ender Dragon",
+            "tier": "LEGENDARY",
+            "lvl": 100,
+            "price": 395000000,
+            "user": "e09788bc603a4e568e4d22d91156d75a",
+            "estSP": 399990000,
+            "profit": 4990000
+        },
+        {
+            "name": "Golden Dragon",
+            "tier": "LEGENDARY",
+            "lvl": 105,
+            "price": 645999998,
+            "user": "b3c99d84f0bd4543a269623e9f8f2b20",
+            "estSP": 650000000,
+            "profit": 4000002
+        },
+        {
+            "name": "Golden Dragon",
+            "tier": "LEGENDARY",
+            "lvl": 200,
+            "price": 1545000000,
+            "user": "2e5680404ab94065a60e675ce505ebe4",
+            "estSP": 1546000000,
+            "profit": 1000000
+        }
+    ]
+}
